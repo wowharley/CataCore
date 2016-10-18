@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `InhabitType` = 5, `HoverHeight` = 20 WHERE `entry` = 51384;
